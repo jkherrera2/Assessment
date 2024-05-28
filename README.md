@@ -1,4 +1,4 @@
-# ReadME
+# ReadME.md
 This is a small php project for the assessment on my internship application for an intern role. 
 
 # index.php
