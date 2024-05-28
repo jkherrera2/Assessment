@@ -6,7 +6,7 @@
         $gender = isset($_POST['gender']) ? htmlspecialchars($_POST['gender']) : 'N/A';
     }
     else {
-        header("Location: submit.php");
+        header("Location: index.php");
         exit;
     }
 ?>
